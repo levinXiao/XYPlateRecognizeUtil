@@ -26,7 +26,7 @@ EasyPR是一个中文的开源车牌识别系统,其目标是成为一个简单�
 [XYPlateRecognizeUtil](https://github.com/levinXiao/XYPlateRecognizeUtil)
 
 ## 代码
-```XYPlateRecognizeUtil.h```
+**XYPlateRecognizeUtil.h**
 
 ```
 @interface XYPlateRecognizeUtil : NSObject
@@ -37,7 +37,7 @@ EasyPR是一个中文的开源车牌识别系统,其目标是成为一个简单�
 
 ```
 
-```XYPlateRecognizeUtil.m```
+**XYPlateRecognizeUtil.m**
 
 ```
 //返回值说明
@@ -89,7 +89,7 @@ EasyPR是一个中文的开源车牌识别系统,其目标是成为一个简单�
 
 ```
 
-另外在本项目中 使用了两种方法识别 分别是 ```拍照``` 和 ```选取图片```
+另外在本项目中 使用了两种方法识别 分别是 **拍照** 和 **选取图片**
 在本质上,这两种方法的识别是一致,都是使用图片识别
 
 推荐做法
